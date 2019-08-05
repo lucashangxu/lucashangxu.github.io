@@ -1,33 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Hang Xu DevLog</title>
+    <title>Blog on This is a Site for Kathy Song</title>
     <link>https://hangxu.dev/</link>
-    <description>Recent content in Blog on Hang Xu DevLog</description>
+    <description>Recent content in Blog on This is a Site for Kathy Song</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Feb 2019 13:50:01 -0600</lastBuildDate>
     
 	<atom:link href="https://hangxu.dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
-      <link>https://hangxu.dev/about/</link>
-      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Creating a New Theme</title>
+      <link>https://hangxu.dev/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://hangxu.dev/about/</guid>
-      <description>My name is Hang(Lucas) Xu. Currently, I am a graduate student at Boston University (BU), majoring computer science and specialization in cybersecurity. This summer (2019), I am going to intern as a sofware engineer at RedHat in Westford, MA!
-Before I joined BU in fall 2018, I was a software engineer at Mass Open Cloud right after I graduated from BU(undergrad) in May 2016, with a double major in computer science and statistics.</description>
+      <guid>https://hangxu.dev/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
-      <title>Résumé</title>
-      <link>https://hangxu.dev/resume/</link>
-      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Migrate to Hugo from Jekyll</title>
+      <link>https://hangxu.dev/migrate-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://hangxu.dev/resume/</guid>
-      <description>Comming Soon!</description>
+      <guid>https://hangxu.dev/migrate-from-jekyll/</guid>
+      <description>false</description>
+    </item>
+    
+    <item>
+      <title>Papercss Shortcodes</title>
+      <link>https://hangxu.dev/papercss-shortcodes/</link>
+      <pubDate>Tue, 26 Feb 2019 13:50:01 -0600</pubDate>
+      
+      <guid>https://hangxu.dev/papercss-shortcodes/</guid>
+      <description>false</description>
     </item>
     
     <item>
@@ -40,6 +49,17 @@ Before I joined BU in fall 2018, I was a software engineer at Mass Open Cloud ri
     </item>
     
     <item>
+      <title>About</title>
+      <link>https://hangxu.dev/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangxu.dev/about/</guid>
+      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
+It makes use of a variety of open source projects including:
+ https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
+    </item>
+    
+    <item>
       <title>(Hu)go Template Primer</title>
       <link>https://hangxu.dev/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
@@ -47,6 +67,15 @@ Before I joined BU in fall 2018, I was a software engineer at Mass Open Cloud ri
       <guid>https://hangxu.dev/goisforlovers/</guid>
       <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
 This document is a brief primer on using Go templates.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>https://hangxu.dev/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangxu.dev/hugoisforlovers/</guid>
+      <description>false</description>
     </item>
     
   </channel>
