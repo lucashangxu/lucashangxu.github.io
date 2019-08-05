@@ -6,10 +6,29 @@
     <description>Recent content in Blog on Hang Xu DevLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Feb 2019 20:53:58 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hangxu.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://hangxu.dev/about/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangxu.dev/about/</guid>
+      <description>My name is Hang(Lucas) Xu. Currently, I am a graduate student at Boston University (BU), majoring computer science and specialization in cybersecurity. This summer (2019), I am going to intern as a sofware engineer at RedHat in Westford, MA!
+Before I joined BU in fall 2018, I was a software engineer at Mass Open Cloud right after I graduated from BU(undergrad) in May 2016, with a double major in computer science and statistics.</description>
+    </item>
+    
+    <item>
+      <title>Résumé</title>
+      <link>https://hangxu.dev/resume/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangxu.dev/resume/</guid>
+      <description>Comming Soon!</description>
+    </item>
     
     <item>
       <title>PaperCSS Typography</title>
@@ -17,20 +36,7 @@
       <pubDate>Fri, 22 Feb 2019 20:53:58 -0600</pubDate>
       
       <guid>https://hangxu.dev/papercss-typography/</guid>
-      <description>Headings # Heading 1 ## Heading 2 ### Heading 3 #### Heading 4 ##### Heading 5 ###### Heading 6  Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Text *This text will be italic* _This will also be italic_ **This text will be bold** __This will also be bold__ _You **can** combine them_  This text will be italic
-This will also be italic
-This text will be bold</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://hangxu.dev/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://hangxu.dev/about/</guid>
-      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
-It makes use of a variety of open source projects including:
- https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
+      <description>false</description>
     </item>
     
     <item>
